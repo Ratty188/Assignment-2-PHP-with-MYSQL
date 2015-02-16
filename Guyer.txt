@@ -1,0 +1,19 @@
+Start: Wed, 12 Feb 2015 8:00:00 -0800
+Start: Wed, 12 Feb 2015 10:45:00 -0800
+Tasks: Rewatch the lecture videos and search online for a method to get my program connected to the database. Had several issues connecting but eventually it worked.
+
+Start: Wed, 12 Feb 2015 12:15:00 -0800
+Start: Wed, 12 Feb 2015 15:00:00 -0800
+Tasks: Did the HTML portion of the assignment (built a form to submit) which was simple. Then spent a while trying to get the form to submit data to MySQL. Figuring out the prepare, bind, and execute statements was tricky but the lectures helped. A lot of my troubles dealt with getting the syntax correct.
+
+Start: Wed, 12 Feb 2015 17:00:00 -0800
+Start: Wed, 12 Feb 2015 21:45:00 -0800
+Tasks: Once I was able to get data into the table I had a bit of an issue getting it out. My main issue was the usage of ' and " at different places. Also, since there is little help debugging, a large portion of my time was spent searching for tiny errors such as having a ] at the end of a line instead of ). I also spent a portion of this time searching for a way to update table using buttons. Luckally I found a guy that used a form to delete a row so I expanded upon that concept.
+
+Start: Thurs, 13 Feb 2015 9:30:00 -0800
+Start: Thurs, 13 Feb 2015 2:00:00 -0800
+Tasks: Finished the remaining portion of the project which included filtering by category, validating data, checking that data posted from pther parts of the file were passing correctly. I also did some testing.
+
+Start: Sun, 15 Feb 2015 22:00:00 -0800
+Start: Sun, 15 Feb 2015 24:00:00 -0800
+Tasks: Final testing and updating. Added in functionality that replaces an empty category with "Unknown". Also fixed the checkin/out functionality.
